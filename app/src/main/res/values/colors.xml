@@ -3,4 +3,17 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- 文本颜色 浅色背景:Dark text on light backgrounds -->
+    <color name="textColorPrimary">#333333</color>
+    <color name="textColorSecondary">#666666</color>
+    <color name="textColorThird">#999999</color>
+    <color name="textColorHint">#999999</color>
+    <color name="textColorDividers">#1f000000</color>
+
+    <!--系统背景色-->
+    <color name="windowBackground">#f1f4f5</color>
+    <color name="placeholderImage">#ff999999</color>
+    <color name="dividerColor">#F0F0F0</color>
+
 </resources>
