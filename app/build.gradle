@@ -28,4 +28,6 @@ dependencies {
 
     compile 'com.android.support:recyclerview-v7:26.1.0'
     compile 'com.facebook.fresco:fresco:0.14.1'
+    // gson: https://github.com/google/gson
+    compile 'com.google.code.gson:gson:2.8.1'
 }

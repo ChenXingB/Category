@@ -21,17 +21,22 @@
             android:orientation="vertical" />
     </android.support.v4.widget.NestedScrollView>
 
-    <TextView
-        android:id="@+id/textView"
+    <FrameLayout
         android:layout_width="0dp"
-        android:gravity="center"
-        android:textSize="20sp"
         android:layout_height="match_parent"
-        android:layout_weight="3.5" />
+        android:layout_weight="3.5">
 
-    <!--<android.support.v7.widget.RecyclerView-->
-    <!--android:id="@+id/recyclerView"-->
-    <!--android:layout_width="0dp"-->
-    <!--android:layout_height="match_parent"-->
-    <!--android:layout_weight="3.5" />-->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+    </FrameLayout>
+
 </LinearLayout>

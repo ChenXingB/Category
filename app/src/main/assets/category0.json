@@ -1,0 +1,38 @@
+{
+  "banner": {
+    "link": "https://www.Larry.com",
+    "pic": "http://dummyimage.com/265x110/6e11d6&text=Larry"
+  },
+  "categories": [
+    {
+      "subCategories": [
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/88d72f&text=Dorothy"
+        }
+      ],
+      "categoryName": "Patricia Williams"
+    },
+    {
+      "subCategories": [
+        {
+          "subCategoryLink": "https://www.Mary.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/c5bdf7&text=Mary"
+        },
+        {
+          "subCategoryLink": "https://www.Williams.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/35B1F0&text=Williams"
+        },
+        {
+          "subCategoryLink": "https://www.Betty.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/c5bdf7&text=Betty"
+        }
+      ],
+      "categoryName": "Ronald Jackson"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "banner": {
+    "link": "https://www.Mary.com",
+    "pic": "http://dummyimage.com/265x110/6ef1d6&text=Mary"
+  },
+  "categories": [
+    {
+      "subCategories": [
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/ffd72f&text=Dorothy"
+        },
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/88dfff&text=Dorothy"
+        },
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/88d72f&text=Dorothy"
+        },
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/88d7ff&text=Dorothy"
+        },
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/8fd7ff&text=Dorothy"
+        },
+        {
+          "subCategoryLink": "https://www.Dorothy.com",
+          "subCategoryName": "Laura Thomas",
+          "subCategoryPic": "http://dummyimage.com/75x75/88dfff&text=Dorothy"
+        }
+      ],
+      "categoryName": "Patricia Williams"
+    },
+    {
+      "subCategories": [
+        {
+          "subCategoryLink": "https://www.Mary.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/ffbdf7&text=Mary"
+        },
+        {
+          "subCategoryLink": "https://www.Williams.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/35ffF0&text=Williams"
+        },
+        {
+          "subCategoryLink": "https://www.Betty.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/cffdf7&text=Betty"
+        }
+      ],
+      "categoryName": "Ronald Jackson"
+    },
+    {
+      "subCategories": [
+        {
+          "subCategoryLink": "https://www.Mary.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/f0bdf7&text=Mary"
+        },
+        {
+          "subCategoryLink": "https://www.Williams.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/35ff00&text=Williams"
+        },
+        {
+          "subCategoryLink": "https://www.Betty.com",
+          "subCategoryName": "Kenneth Miller",
+          "subCategoryPic": "http://dummyimage.com/75x75/cffd07&text=Betty"
+        }
+      ],
+      "categoryName": "Ronald Jackson"
+    }
+  ]
+}
