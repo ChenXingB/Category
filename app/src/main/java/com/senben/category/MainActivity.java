@@ -114,8 +114,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // 默认选中第一个
-        int checkedId = radioGroup.getChildAt(0).getId();
-        radioGroup.check(checkedId);
+        RadioButton radioButton = (RadioButton) radioGroup.getChildAt(0);
+        radioButton.setChecked(true);
     }
 
     /**
